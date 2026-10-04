@@ -1,19 +1,23 @@
 # The 16-Word Sales Letter
 
-An agent skill for planning, writing, and reviewing sales letters and video sales letters using Evaldo Albuquerque's *The 16-Word Sales Letter*.
+Improve your copy's clarity, credibility, and persuasive strength using Evaldo Albuquerque's *The 16-Word Sales Letter*.
 
-Extended with a supplied lecture, sales promotion, third-party breakdown, and partial sales-letter example.
+This agent skill helps you diagnose and improve existing copy, or write new copy with a clear sales argument. Use it for sales letters, VSLs, landing pages, emails, ads, product pages, and other copy intended to drive action.
 
-## What it helps you do
+The skill adapts the method to your audience, format, and intended next step. A short ad may need a sharper promise and stronger proof. A sales email may need a clearer benefit and a more credible reason to respond. A full sales letter may need the complete argument.
 
-- Define the selling belief connecting the reader's desire, the new opportunity, and the offer's mechanism.
-- Build a sales argument around the book's ten questions.
-- Integrate proof using And, But, Therefore.
-- Explain the real obstacle, establish trust, and make the mechanism understandable.
-- Build offers with clear pricing, useful bonuses, and accurate guarantee terms.
-- Diagnose gaps in existing copy and propose specific repairs.
+## What it helps you improve
 
-The skill includes chapter notes, practical procedures, and annotated examples. It distinguishes the book's teaching from Evaldo's lecture, observed copy, third-party interpretation, and new adaptations.
+- Identify where the copy loses attention, leaves doubts unanswered, or asks for action before establishing enough value.
+- Sharpen the main promise and connect it to what the reader wants.
+- Make the offer's difference and mechanism easier to understand.
+- Strengthen proof and address objections using the evidence available.
+- Improve structure, flow, and wording while preserving the intended voice.
+- Clarify the offer and call to action.
+
+The core framework combines One Belief, ten reader questions, And/But/Therefore proof, mechanism explanations, offer construction, and push-pull closes. The skill selects the elements relevant to each piece rather than requiring every format to answer all ten questions.
+
+It includes notes covering all 13 book chapters, annotated sales-copy examples, lecture additions, and practical references for planning and revision. It distinguishes the book's teaching from Evaldo's lecture, observed copy, third-party interpretation, and new adaptations.
 
 ## Installation
 
@@ -27,26 +31,26 @@ The skill's identifier is `the-16-word-sales-letter`. Its display name is **The 
 
 ## Usage
 
-Provide the audience, offer, available evidence, format, and intended action. Include existing copy when requesting a review.
+Provide your copy, audience, offer, available evidence, and intended action. Specify any constraints on length, tone, or format.
 
 Example prompts:
 
 ```text
-Use $the-16-word-sales-letter to plan a sales letter.
-First define the selling belief and identify missing evidence.
-Then develop the argument around the ten questions.
+Use $the-16-word-sales-letter to improve this copy.
+Identify the weaknesses in the sales argument, explain the most
+important changes, and provide a revised version.
+Preserve my voice and use only the evidence supplied.
 ```
 
 ```text
-Use $the-16-word-sales-letter to review this VSL.
-Identify unanswered questions, unsupported claims, and offer inconsistencies.
-Propose specific revisions.
+Improve this sales email for a Spanish B2B audience.
+Make the benefit, credibility, and reason to respond clearer.
+Keep it under 150 words and write in Spanish from Spain.
 ```
 
 ```text
-Use $the-16-word-sales-letter to write a landing page
-for a Spanish B2B audience. Write in Spanish from Spain.
-Use only the evidence supplied in my brief.
+Review this ad's hook, promise, proof, and call to action.
+Rewrite it within the existing character limit.
 ```
 
 Internal instructions and references are in English. The skill writes deliverables in the language requested for the audience.

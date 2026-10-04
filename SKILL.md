@@ -1,11 +1,13 @@
 ---
 name: the-16-word-sales-letter
-description: "Apply Evaldo Albuquerque's The 16-Word Sales Letter to plan, write, diagnose, or study sales letters and VSLs: One Belief, ten sequential questions, ABT proof, mechanisms, offers, and push-pull closes. Includes a source-linked library of supplied promotions and commentary. Use for Evaldo's method or sales arguments that need this structure."
+description: "Improve persuasive copy using Evaldo Albuquerque's The 16-Word Sales Letter. Diagnose, rewrite, plan, or create sales letters, VSLs, landing pages, emails, ads, product pages, and other copy intended to drive action. Use to sharpen promises, clarify benefits, strengthen proof, address objections, explain mechanisms, clarify offers, improve calls to action, or study Evaldo's method. Adapt One Belief and the relevant reader questions to the format and stage of the sale."
 ---
 
 # The 16-Word Sales Letter
 
 Author: Evaldo Albuquerque. Book: 2019, 95 PDF pages, 13 chapters. Generated: 2026-10-03. Extended with the user's supplied lecture, promotion, third-party commentary, and partial swipe.
+
+Use the method to improve the sales argument in any piece of persuasive copy, including sales letters, VSLs, landing pages, emails, ads, and product pages. Adapt the work to the audience, format, length, voice, available evidence, and intended next action. Applications to other formats are operational adaptations of the book's sales-letter method.
 
 ## Start with the selling belief
 
@@ -25,12 +27,13 @@ Use One Belief as the test for retaining material. An interesting anecdote that 
 
 ## Choose the work requested
 
-- **Plan or write:** establish audience, existing alternatives, prior failures, offer, evidence, voice, and requested action from the brief. Draft One Belief and short answers to at least Q1-Q7 before prose. Identify missing facts without inventing them. Complete the requested deliverable with available evidence, marking consequential assumptions.
-- **Review:** identify the failing question, cite the affected passage, explain the effect on the argument, and propose a specific repair. Prioritize broken logic and unsupported claims before wording.
+- **Improve or rewrite:** read the supplied copy in full. Establish its audience, purpose, format, constraints, and intended next action from the brief. Identify the most consequential weaknesses in the promise, benefit, proof, objections, mechanism, offer, or CTA. Cite the affected passage, explain the effect, and provide revised copy within the requested scope. Preserve supported claims and the intended voice; mark consequential assumptions.
+- **Plan or write:** establish audience, existing alternatives, prior failures, offer, evidence, voice, and requested action from the brief. Draft One Belief before prose. For a full sales letter or VSL, outline at least Q1-Q7 and plan the offer and close. For another format, select the reader questions relevant to that piece's job. Identify missing facts without inventing them. Complete the requested deliverable with available evidence, marking consequential assumptions.
+- **Review:** identify the failing question or persuasive function, cite the affected passage, explain the effect on the argument, and propose a specific repair. Prioritize broken logic and unsupported claims before wording. Assess what the piece must establish for its intended next action; do not report every unanswered question as a defect in short copy.
 - **Study:** read the relevant chapter and example before answering beyond this entrypoint. Explain the decision, demonstrate it, and distinguish the author's teaching from inference.
 - **Browse:** show the chapter or example index. With no specific task, present One Belief and the ten questions briefly.
 
-For a full letter, use the sequence below as the planning default. Do not force ten visible headings into finished copy. The supplied promotion revisits and reorders several functions. For a shorter format, compress the argument to the requested length and stage of the sale; label this as adaptation rather than a separate Evaldo rule.
+For a full letter, use the sequence below as the planning default. Do not force ten visible headings into finished copy. The supplied promotion revisits and reorders several functions. For other formats, select and compress the argument to the requested length and stage of the sale; label this as adaptation rather than a separate Evaldo rule. An ad may focus on its hook, promise, proof, and next click. An email may establish relevance, a credible benefit, and a reason to respond. A product page may emphasize benefits, mechanism, proof, terms, and the next action. Include urgency, an offer stack, or risk reversal only when relevant and supported.
 
 ## Ten questions in the original order
 

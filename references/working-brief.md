@@ -20,7 +20,7 @@ Use information already supplied. Ask only for missing details that materially a
 | Action | What the reader should do next and what happens afterward |
 | Language and format | Audience language, channel, length, and requested stage of sale |
 
-Write One Belief. Then give each of the ten questions a short answer. Beside each consequential answer, record either the supporting evidence or the gap. A draft can retain a clearly marked gap; it should not fill it with an invented testimonial, number, mechanism, or deadline.
+Write One Belief. For a full sales letter or VSL, give each of the ten questions a short answer. For an email, ad, landing page, product page, or other format, select the questions relevant to the piece's intended action and the reader's existing context. Beside each consequential answer, record either the supporting evidence or the gap. A draft can retain a clearly marked gap; it should not fill it with an invented testimonial, number, mechanism, or deadline.
 
 ## Evidence record
 
@@ -43,7 +43,9 @@ Preserve the client's product, audience, and requested deliverable. Do not turn 
 
 ## Draft and revise
 
-Use the book's sequence as the planning default. Let finished sections overlap where the argument needs it. Keep the language natural for the audience. For Spain, use Spanish from Spain when that is the intended market, without mechanically importing American financial-promotion rhetoric.
+Use the book's sequence as the planning default for a full sales letter or VSL. For other formats, organize the relevant functions around the intended next action. Let finished sections overlap where the argument needs it. Keep the language natural for the audience. For Spain, use Spanish from Spain when that is the intended market, without mechanically importing American financial-promotion rhetoric.
+
+When improving existing copy, read it in full and preserve the requested format, length, voice, and supported facts. Diagnose the most consequential weaknesses, explain the main changes, and deliver a revised version when improvement or rewriting is requested. A review alone can provide findings and targeted repairs. Do not treat an absent price, guarantee, or full mechanism explanation as a defect when the piece's purpose is to earn a click or reply and those details belong later.
 
 For reviews, report the most consequential failures first:
 
@@ -57,6 +59,8 @@ For reviews, report the most consequential failures first:
 For each finding, cite the passage, name the question/function, state why it matters, and give a concrete revision. Do not assign invented conversion scores or predict sales uplift without data.
 
 ## Final decision checks
+
+Apply the checks relevant to the piece's purpose, format, and stage of the sale. A short ad or sales email does not need to carry the full argument.
 
 - The opening establishes both difference and reader benefit.
 - Each central claim has the appropriate support or qualification.

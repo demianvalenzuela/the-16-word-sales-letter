@@ -6,7 +6,7 @@ Source labels distinguish book teaching, direct lecture, observed example, and t
 
 **When to use:** The idea, mission, or outline is unclear.
 
-**How:** Separate opportunity, desire, and mechanism. Write their relationship in one sentence. Check the causal and competitive claims it implies. Outline Q1-Q7 briefly before expanding.
+**How:** Separate opportunity, desire, and mechanism. Write their relationship in one sentence. Check the causal and competitive claims it implies. For a full sales letter or VSL, outline Q1-Q7 briefly before expanding. For another format, outline the relevant reader questions for its intended next action.
 
 **Trade-offs:** Focus helps reject digressions; an oversimplified belief can hide multiple audiences or unsupported exclusivity.
 

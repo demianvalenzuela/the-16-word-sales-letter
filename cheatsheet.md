@@ -45,7 +45,8 @@
 
 ## Source defaults, not laws
 
-- Plan One Belief plus short Q1-Q7 answers in about 5-10 minutes; research may take much longer.
+- For a full sales letter or VSL, plan One Belief plus short Q1-Q7 answers in about 5-10 minutes; research may take much longer.
+- For other copy, use One Belief and select the questions relevant to its format, audience context, and intended next action. This is an operational adaptation.
 - Aim to answer Q1-Q2 on the first page of a full letter.
 - Evaldo reports handling Q1-Q7 in roughly the first third; the supplied full letter interleaves several functions.
 - The offer sequence is report → subscription → testimonials → high anchor → bonuses → stack → price → guarantee when the newsletter model fits.
