@@ -1,0 +1,43 @@
+# Glossary
+
+- **ABT:** And, But, Therefore; a structure linking situation, conflict, and consequence. Ch05, ch10.
+- **Anchor:** A reference value used to interpret an offer's price. Ch11.
+- **Big promise:** The central desired benefit made explicit near the opening. Ch04.
+- **Claim-proof fit:** Whether a piece of evidence supports the specific claim beside it. Operational terminology used in ch05.
+- **Commander's Intent:** The desired end state used to guide execution; the book's analogy for One Belief. Ch02.
+- **Common enemy:** A shared opposing cause, practice, or situation used to align speaker and reader. Ch07.
+- **Cost of inaction:** What remains unresolved or becomes worse if the reader delays. Ch08, ch12.
+- **Credibility storyline:** A narrative that establishes why the speaker is relevant and trustworthy. Ch09.
+- **Desire:** The outcome or improvement the reader wants, including its emotional significance. Ch02, ch04.
+- **Distrust:** Resistance arising from skepticism about claims or the speaker. Ch08.
+- **Either-or fallacy:** Presenting a restricted pair of alternatives as the only possibilities. The book advocates it for urgency; this skill documents it and avoids manufacturing false choices. Ch08.
+- **Expert storyline:** Credibility built through relevant work, experience, and accomplishments. Ch09.
+- **False close:** A move toward price using a high anchor, followed by further offer detail before the actual price. Ch11.
+- **FOMO:** Fear of missing out on an attractive opportunity. Ch08.
+- **Hope:** Expectation that a materially different route may succeed where previous attempts failed. Ch06.
+- **I've been in your shoes:** A credibility storyline based on genuine comparable struggle, discovery, and change. Ch09.
+- **Inertia:** Resistance to acting even after interest or belief is established. Ch08.
+- **Magic conversion formula:** Real problem + new mechanism = hope; named in the supplied Evaldo lecture and connected to ch06.
+- **New mechanism:** How the proposed opportunity is delivered or made possible. Ch02, ch10.
+- **New opportunity:** The distinctive route to a desired outcome. Ch02, ch03.
+- **No-brainer offer:** The author's term for an offer with a compelling value-price relationship and reduced purchase risk. Ch11.
+- **Novelty:** Perceived difference from what the reader already recognizes. Ch03.
+- **One Belief:** The relationship connecting new opportunity, desire, and new mechanism as the letter's mission. Ch02.
+- **Open loop:** A meaningful question whose answer is promised later; emphasized by the third-party commentator and observed in the letter.
+- **Premium:** A complementary bonus designed specifically for the offer. Ch11.
+- **Proof:** Evidence relevant to a claim; includes cases, demonstrations, charts, or third-party material with appropriate limits. Ch05.
+- **Push-pull:** Acknowledge choice or non-fit, then return to the stakes and opportunity. Ch12.
+- **Reactance:** Resistance to perceived restriction of freedom. Ch08, ch12.
+- **Real problem:** The proposed obstacle explaining why prior approaches failed. Ch06.
+- **Reason-why copy:** An explanation of why an offer, price, motive, or event makes sense; terminology emphasized in the third-party breakdown.
+- **Reverse-engineering Q1:** Using the new opportunity's difference to generate an obstacle hypothesis for Q4. Ch06.
+- **Risk reversal:** A defined transfer of purchase risk, such as a refund promise. Ch11.
+- **Robin Hood storyline:** A person with real insider access shares useful knowledge with an underserved audience. Ch09.
+- **Scrutiny:** The reader's need to inspect and understand the case for the decision. Ch08, ch10.
+- **S.I.N. Offers:** Superior, irresistible, no-brainer; Todd Brown's concept cited by Evaldo. Ch11.
+- **Three-option close:** Do nothing, do it yourself, or accept help, when these are real alternatives. Ch12.
+- **USP:** Unique selling proposition; the distinction that organizes the argument. Ch02, ch03.
+- **Value stack:** An itemized account of the offer's components and claimed values before price. Ch11.
+- **VSL:** Video sales letter, a spoken/visual form of the selling argument. Ch01 and lecture.
+
+Historical promotional names are indexed in the [book example library](examples/book-example-library.md) and [full-letter case](examples/eccentric-millionaire.md). They are not additional general frameworks.

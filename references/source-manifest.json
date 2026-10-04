@@ -1,0 +1,83 @@
+{
+  "created": "2026-10-03",
+  "files": [
+    {
+      "id": "S01",
+      "filename": "The 16-Word Sales Letter.md",
+      "bytes": 101739,
+      "sha256": "c054cbc9a2457121c0e08c009c71e8f087c0d8a2c6a6119648e67c418c2faec2",
+      "reading_status": "Canonical text, read in full from beginning to acknowledgements. 13 chapters plus all front/back matter."
+    },
+    {
+      "id": "S02",
+      "filename": "The 16-Word Sales Letter.pdf",
+      "bytes": 1408894,
+      "sha256": "5cb2100d3819c67493a3aa903af53f5dbdf8336d881a6481efb33659dc459eb8",
+      "reading_status": "95-page layout reference. All normalized alphanumeric words exactly match S01. Substantive embedded advertisement and layout details inspected; headings duplicate the text."
+    },
+    {
+      "id": "S03",
+      "filename": "The 16-Word Sales Letter.txt",
+      "bytes": 105625,
+      "sha256": "c65213d6b0330fcdcb9e6cefb5a25dd9b567dce3831711af4ddfa0c7d26f3fa3",
+      "reading_status": "Compared completely against S01. All 104 differing spans read in context; repeated headers/front matter and formatting/OCR artifacts add no separate teaching."
+    },
+    {
+      "id": "S04",
+      "filename": "The 16-Word Sales Letter.rtf",
+      "bytes": 533795,
+      "sha256": "4a504f4b19b3a1afb7f29fe0a8e98d7787f875d9baa72564ea5cb7f2d869d94e",
+      "reading_status": "Converted with macOS textutil after the generic extractor produced noisy output. All 94 differing spans read against S01; omitted headings, page furniture, and a few broken words/reorderings add no distinct teaching."
+    },
+    {
+      "id": "S05",
+      "filename": "Eccentric Millionaire Reveals His Secret.pdf",
+      "bytes": 4837840,
+      "sha256": "edb7853fa29a1eb10c293be4adba4b3e425474367b2b06c3ddb8cb147958cd95",
+      "reading_status": "All 39 pages of extracted text read, substantive embedded figures inspected, and final rendered page checked. Complete supplied promotion; embedded videos are static images/links, not available audiovisual footage."
+    },
+    {
+      "id": "S06",
+      "filename": "Evaldo Albuquerque Reveals His Secret To Writing Copy That Generated 170-000-000.txt",
+      "bytes": 36458,
+      "sha256": "b3c8160a51ea1dc39a4733f45e0ad18f301f337feb37858f63e4ed3f64b8a754",
+      "reading_status": "Complete transcript read, including teaser, played examples, and unrelated final advertisement."
+    },
+    {
+      "id": "S07",
+      "filename": "Evaldo Albuquerque Reveals His Secret To Writing Copy That Generated 170-000-000.whisper",
+      "bytes": 40682950,
+      "sha256": "8bfde59860c2c2e3b192dcb6f2d90dec42429c37fcb4ef27eec161a8dbcc3e16",
+      "reading_status": "Container metadata and all transcript segments compared. Normalized transcript is exactly S06. 570 segments, about 41:47. Embedded original audio was not independently listened to or retranscribed."
+    },
+    {
+      "id": "S08",
+      "filename": "Evaldo Albuquerque -Eccentric Millionaire- - Agora Financial Sales Letter -Proven Ads 76-100.txt",
+      "bytes": 52152,
+      "sha256": "7ce34a1d5ba8c416fdf286bcd638f39f9dc1b3d7d18b47082e3ebab2f019e0f1",
+      "reading_status": "Complete third-party commentary read, including channel promotion and digressions. The commentator skips portions of the letter; S05 supplies the full local letter."
+    },
+    {
+      "id": "S09",
+      "filename": "Evaldo Albuquerque - -Eccentric Millionaire- - Agora Financial Sales Letter -Proven Ads 76-100.whisper",
+      "bytes": 53812483,
+      "sha256": "1714dd337737043dec549dfcb3584ab7d8ad529ecdc5a318bdae305ccfc2bba6",
+      "reading_status": "Container metadata and all transcript segments compared. Normalized transcript is exactly S08. 503 segments, about 55:18. Embedded original audio was not independently listened to or retranscribed."
+    },
+    {
+      "id": "S10",
+      "filename": "dangerous-retirement-swiped.co-1.png",
+      "bytes": 518275,
+      "sha256": "aeb0828361e3d7a2abf18bb5b6d09fb221deea685c23c107da0e2a5580d0246b",
+      "reading_status": "Every visible word read in six overlapping crops covering all 8031 image rows. Partial letter begins mid-sentence. Missing upstream content is not reconstructed."
+    },
+    {
+      "id": "S11",
+      "filename": "Refined - Evaldo Albuquerque Manual Práctico_ La Carta de Ventas de 16 Palabras.txt",
+      "bytes": 3046,
+      "sha256": "aa897d9cef3a2c80100f69f89f1646f6279148e8113683a863f541f88265d418",
+      "reading_status": "Read completely. Secondary Spanish digest; authorship is not established. Q9/Q10 conflict with the book and are not used as authority."
+    }
+  ],
+  "source_storage": "Original source files are retained separately and are not distributed in this repository. Personal filesystem paths are omitted."
+}
